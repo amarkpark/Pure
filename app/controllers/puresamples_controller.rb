@@ -1,0 +1,2 @@
+class PuresamplesController < ApplicationController
+end

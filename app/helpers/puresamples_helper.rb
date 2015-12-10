@@ -1,0 +1,2 @@
+module PuresamplesHelper
+end
